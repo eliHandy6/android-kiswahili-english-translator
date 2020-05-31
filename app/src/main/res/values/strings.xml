@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KISENG</string>
+    <string name="enter_a_word_to_translate">Enter a word to translate</string>
+    <string name="exit">Exit</string>
+    <string name="translate">Translate</string>
+</resources>
